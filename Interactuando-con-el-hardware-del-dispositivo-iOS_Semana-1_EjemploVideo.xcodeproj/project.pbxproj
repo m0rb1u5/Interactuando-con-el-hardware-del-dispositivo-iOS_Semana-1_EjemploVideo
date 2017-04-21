@@ -14,6 +14,7 @@
 		942CCCAD1EAA2BDC00ABF378 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 942CCCAB1EAA2BDC00ABF378 /* LaunchScreen.storyboard */; };
 		942CCCB81EAA2BDD00ABF378 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploVideoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942CCCB71EAA2BDD00ABF378 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploVideoTests.swift */; };
 		942CCCC31EAA2BDD00ABF378 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploVideoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942CCCC21EAA2BDD00ABF378 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploVideoUITests.swift */; };
+		942CCCD21EAA389000ABF378 /* small.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 942CCCD11EAA36C400ABF378 /* small.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		942CCCBE1EAA2BDD00ABF378 /* Interactuando-con-el-hardware-del-dispositivo-iOS_Semana-1_EjemploVideoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Interactuando-con-el-hardware-del-dispositivo-iOS_Semana-1_EjemploVideoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		942CCCC21EAA2BDD00ABF378 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploVideoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploVideoUITests.swift; sourceTree = "<group>"; };
 		942CCCC41EAA2BDD00ABF378 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		942CCCD11EAA36C400ABF378 /* small.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = small.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		942CCCA11EAA2BDC00ABF378 /* Interactuando-con-el-hardware-del-dispositivo-iOS_Semana-1_EjemploVideo */ = {
 			isa = PBXGroup;
 			children = (
+				942CCCD11EAA36C400ABF378 /* small.mp4 */,
 				942CCCA21EAA2BDC00ABF378 /* AppDelegate.swift */,
 				942CCCA41EAA2BDC00ABF378 /* ViewController.swift */,
 				942CCCA61EAA2BDC00ABF378 /* Main.storyboard */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				942CCCD21EAA389000ABF378 /* small.mp4 in Resources */,
 				942CCCAD1EAA2BDC00ABF378 /* LaunchScreen.storyboard in Resources */,
 				942CCCAA1EAA2BDC00ABF378 /* Assets.xcassets in Resources */,
 				942CCCA81EAA2BDC00ABF378 /* Main.storyboard in Resources */,
